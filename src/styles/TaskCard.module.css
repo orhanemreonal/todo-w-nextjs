@@ -1,0 +1,47 @@
+.taskContainer{
+	
+	background-color: white;
+	color: black;
+	font-weight: bolder;
+	border-radius: 50px;
+	padding-bottom: 30px;
+	margin: 20px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.taskTitle {
+min-height: 50px;
+min-width: 250px;
+}
+
+
+.taskPriority {
+	color:grey;
+}
+
+
+.taskDescription{
+	min-height: 50px;
+   min-width: 250px;	
+}
+
+.createdTime{
+
+}
+
+.buttonsDiv {
+	display: flex;
+	justify-content: center;
+	text-decoration: none;
+	align-items: center;
+  }
+
+  .completeTaskBtn{
+	
+	color:white;
+	font-weight: bolder;
+    background-color: green;
+  }
+
+
+ 
